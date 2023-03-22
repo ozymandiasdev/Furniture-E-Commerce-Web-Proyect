@@ -93,8 +93,17 @@ img {
   padding: 2rem 0;
   display: flex;
   justify-content: space-between;
-  
+}
 
+.nav-principal  a:hover{
+  text-align:center ;
+  display: block;
+  flex-basis: auto;
+  background-color: #037bc0;
+  color: #fff;
+  border-bottom-style:solid;
+  border: none;
+  border-radius: 40%;
 }
 
 .hero {
